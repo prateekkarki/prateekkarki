@@ -21,9 +21,9 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/bootstrap/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/gatsby/gatsby-original.svg" alt="gatsby" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40" style="background: white; border-radius: 50%;"/> </a> 
+<a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/nextjs/nextjs.svg" alt="nextjs" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a> 
