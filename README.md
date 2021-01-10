@@ -31,7 +31,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/tailwind/tailwind.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/tailwind/tailwind-alternative.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/prateekkarki/prateekkarki/main/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> 
 </div>
