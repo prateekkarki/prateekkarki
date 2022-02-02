@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm <a href="https://meetprateek.com" target="_blank" rel="noopener"> Prateek Karki </a></h1>
-<h3 align="center">Engineer at Codavatar, Open Source Enthusiast</h3>
+<h3 align="center">Freelance Frontend Engineer at Toptal, Open Source Enthusiast</h3>
 
 <br/>  
 
