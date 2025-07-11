@@ -1,16 +1,6 @@
 <h1 align="center">Hey there 👋, I'm <a href="https://meetprateek.com" target="_blank" rel="noopener"> Prateek Karki </a></h1>
 <h3 align="center">Freelance Frontend Engineer at Toptal, Open Source Enthusiast</h3>
 
-<br/>  
-
-<h3 align="center">Github Stats</h3>
-<table align="center" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0" >
-<tr>
-<td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekkarki&exclude_repo=laragen,laragen-cms,laravel-social-login,prateekkarki.github.io&layout=compact&hide=vue" align="center" /></td>
-<td align="center"><img src="https://github-readme-stats.vercel.app/api?username=prateekkarki&show_icons=true&hide=contribs,stars" align="center" /></td>
-</tr>
-</table>
-
 <br />
 
 <h3 align="center">Languages and Tools</h3>
